@@ -1,3 +1,12 @@
+"""
+    Project:        UCS algorithm with CLOSED
+    Name:           proj01.py
+    Author:         Samuel Vojtáš
+    Login:          xvojta09
+    Faculty:        VUT FIT
+    Date:           March, 2021
+"""
+
 class State():
     """ Prices for operators """
     op_prices = [1, 2, 4, 5, 2, 4, 5, 4, 5, 5]
