@@ -186,6 +186,7 @@ def extract_min_price(OPEN):
 def print_solution(goal_state):
     """ Prints steps to the goal state """
     print("\n\n")
+    print("Solution: ")
     seq = []
     state = goal_state
     while state:
